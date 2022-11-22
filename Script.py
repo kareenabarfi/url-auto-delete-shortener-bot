@@ -11,22 +11,22 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://beingtek.com/ref/GreyMatter658')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://t.me/Surus_143_hpy')
     START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im Search Bot I can share Movies and Series 😁.</b>
 
 <i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/nyapurana><b>AJ</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/nyapurana><b>AJ</b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : ʜᴇʀᴏᴋᴜ\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/bacupchanel><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
+    ABOUT_TXT = """<b><i>🤖 𝐌𝐲 𝐍𝐚𝐦𝐞 : <a href=https://t.me/Filmy_Rog><b>𝐒𝐚𝐧𝐝𝐦𝐚𝐧🔎</b></a>\n
+👨‍💻 𝐌𝐲 𝐅𝐚𝐭𝐡𝐞𝐫 : <a href=https://t.me/Syrus_143_hpy><b>𝐒𝐀𝐍𝐃𝐌𝐀𝐍⚡</b></a>\n
+📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐏𝐲𝐫𝐨𝐠𝐫𝐚𝐦\n
+📚 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 : 𝐏𝐲𝐭𝐡𝐨𝐧𝟑\n
+📡 𝐇𝐨𝐬𝐭𝐞𝐝 𝐎𝐧 : 𝐈𝐃𝐊\n
+📢 𝐌𝐚𝐢𝐧 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href=https://t.me/Filmy_Men><b></b>𝐅𝐢𝐥𝐦𝐲 𝐌𝐞𝐧</a>\n
+🌟 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : 𝐕𝟒.𝟎\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
-» Contact Me @nyapurana<b>"""
+» Contact Me @Syrus_143_hpy<b>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Search Bot will respond whenever a keyword is found the message
